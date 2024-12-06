@@ -1,12 +1,3 @@
-/*
-* PLEASE WRITE DOWN FOLLOWING INFO BEFORE SUBMISSION
-* FILE NAME: parallel_3036030958.c
-* NAME: Abraham Ernest Chandafa
-* UID:  3036030958
-* Development Platform: Linux Workbench2, gcc version 11.4.0
-* Remark: Completed all features
-* How to compile separately: (gcc -o parallel parallel_3036030958.c -O2 -lm -lpthread)
-*/
 
 #include "common.h" // some common definitions
 
